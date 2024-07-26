@@ -1,0 +1,7 @@
+C:\Users\emila\Documents\Progra-1-2024-semi\SumaDe2Numeros\SumaDe2Numeros\SumaDe2Numeros\bin\Debug\SumaDe2Numeros.exe.config
+C:\Users\emila\Documents\Progra-1-2024-semi\SumaDe2Numeros\SumaDe2Numeros\SumaDe2Numeros\bin\Debug\SumaDe2Numeros.exe
+C:\Users\emila\Documents\Progra-1-2024-semi\SumaDe2Numeros\SumaDe2Numeros\SumaDe2Numeros\bin\Debug\SumaDe2Numeros.pdb
+C:\Users\emila\Documents\Progra-1-2024-semi\SumaDe2Numeros\SumaDe2Numeros\SumaDe2Numeros\obj\Debug\SumaDe2Numeros.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra-1-2024-semi\SumaDe2Numeros\SumaDe2Numeros\SumaDe2Numeros\obj\Debug\SumaDe2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra-1-2024-semi\SumaDe2Numeros\SumaDe2Numeros\SumaDe2Numeros\obj\Debug\SumaDe2Numeros.exe
+C:\Users\emila\Documents\Progra-1-2024-semi\SumaDe2Numeros\SumaDe2Numeros\SumaDe2Numeros\obj\Debug\SumaDe2Numeros.pdb
